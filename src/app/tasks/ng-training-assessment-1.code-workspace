@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/sheef/OneDrive/Documents/ng-training-assessment-1"
+		},
+		{
+			"path": "../../../node_modules"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../.angular"
+		},
+		{
+			"path": "../../../.vscode"
+		}
+	],
+	"settings": {}
+}
